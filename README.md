@@ -7,5 +7,6 @@
 
 
 ## 🛠 Skills
-Python![logo](https://logo.svgcdn.com/l/python.png)
-
+[Python![logo](https://logo.svgcdn.com/l/python.png)
+](https://img.shields.io/badge/PYTHON-brightgreen
+)
